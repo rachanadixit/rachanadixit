@@ -1,4 +1,12 @@
-# Hi, I'm Rachana Dixit! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hi%2C+I'M+RACHANA+DIXIT!" alt="Animated intro Rachana Dixit"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rachanadixit/rachanadixit/main/assets/tech_wave.gif" height="160" alt="Techy aesthetic wave"/>
+</p>
+
+---
 
 🌍 Pune, Maharashtra  
 📧 [rachanadixit315@gmail.com](mailto:rachanadixit315@gmail.com)  
@@ -100,3 +108,5 @@ I'm always happy to connect with fellow tech enthusiasts, collaborators, and rec
 Feel free to reach out via [email](mailto:rachanadixit315@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rachana-dixit-a8906b291).
 
 ---
+
+ 
