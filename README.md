@@ -91,13 +91,13 @@ I'm a third-year B.Tech IT student at PCCoE, driven by my passion for software d
 
 ## 🏆 Extra-Curricular Activities
 
-- **Microsoft Learn Student Chapter, PCCoE** — Design & Social Media Member (Oct 2024 – Present)  
+- **Microsoft Learn Student Chapter, PCCoE** — Design & Social Media Lead (Oct 2024 – Present)  
   Designed 30+ creatives for tech events and social media, boosting engagement by ~30%.
 
 - **IEEE Student Branch, PCCoE** — Design Team Member (Aug 2024 – Jan 2025)  
   Created digital content for 5+ IEEE workshops/events, boosting student participation.
 
-- **Team Solarium** — Strategy Engineer & Social Media Head (Mar 2024 – Feb 2025)  
+- **Team Solarium** — Strategy Engineer & Social Media member (Mar 2024 – Feb 2025)  
   Led telemetry system setup for 10+ sensors in a solar-electric vehicle; increased online reach by 60%.
 
 ---
